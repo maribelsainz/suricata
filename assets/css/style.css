@@ -1,0 +1,55 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body * {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.suricata_nav {
+  width: 132px;
+  height: 53px;
+}
+
+.color_barra {
+  background: #e83e8c;
+}
+
+.suricata_footer {
+  max-width: 6%;
+  margin-left: 50%;
+
+}
+
+.carta {
+  padding: 7%;
+}
+
+h1 {
+  color: #707070;
+  margin-top: 64px;
+}
+
+.icons-section {
+  background: #17A2B8;
+}
+
+.size_credit_card {
+  display: inline-block;
+}
+
+h3 {
+  display: inline-block;
+  width: 80px;
+  height: 63px;
+}
+
+.card {
+  color: #373A3C;
+}
+
+a.nav-link {
+  color: #FFFFFF;
+}
